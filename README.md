@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shadman</h1>
-- 🌱 I’m currently learning **Django Rest Framework,Machine Learning**
-
+- 🌱 I’m currently learning Django Rest Framework , Machine Learning
 - 📫 How to reach me **Nima.shadman619@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
