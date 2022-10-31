@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shadman</h1>
-- 🌱 I’m currently learning Django Rest Framework , Machine Learning , Unity Game Engine
+- 🌱 I’m currently learning Machine Learning , Unity Game Engine
 
 - 📫 How to reach me **Nima.shadman619@gmail.com**
 
