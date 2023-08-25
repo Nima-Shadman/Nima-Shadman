@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nima Shadman</h1>
 <h3 align="center">Computer Science Student at FUM</h3>
 
+Currently knee-deep in the world of Computer Science at Ferdowsi University of Mashhad, and sharpening my skills as a Django Backend Developer at Angizeh Negar Khavaran.I got my hands dirty and learned some cool stuff During my stint as an intern at Sane Shargh Co, Zima Tarashe Tous, and IT ManClick.
+I'm pumped to connect with fellow professionals who share the same passions and quirks as me.
+
 - 🌱 Interested in **Machine Learning, Backend Development, Game Development**
 
 - 📫 How to reach me **nima.shadman619@gmail.com**
