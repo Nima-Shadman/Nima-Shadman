@@ -5,8 +5,6 @@
 
 - 📝 Studying at **Ferdowsi University of Mashhad**
 
-- 👨‍💻 Currently Backend Developer at **Angizeh Negar Khavaran**
-
 - 📫 How to reach me **Nima.Shadman619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
