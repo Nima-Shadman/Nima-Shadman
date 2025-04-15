@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nima Shadman</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Master's Student in Computer Science</h3>
 
-- 🌱 Interested in **Machine Learning, Natural Language Processing, Backend Development, Game Development**
+- 🌱 Interested in **Machine Learning, Natural Language Processing, Game Development**
 
-- 📝 Studied at **Ferdowsi University of Mashhad**
+- 📝 Studying at **University of Bonn**
 
 - 📫 How to reach me **Nima.shadman@gmail.com**
 
