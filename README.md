@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shadman</h1>
-<h3 align="center">Computer Science Graduate</h3>
+<h3 align="center">Computer Science Student</h3>
 
 - 🌱 Interested in **Machine Learning, Natural Language Processing, Backend Development, Game Development**
 
