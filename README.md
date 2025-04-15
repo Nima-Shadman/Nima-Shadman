@@ -5,7 +5,7 @@
 
 - 📝 Studying at **University of Bonn**
 
-- 📫 How to reach me **Nima.shadman@gmail.com**
+- 📫 How to reach me **Nima.shadman619@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
